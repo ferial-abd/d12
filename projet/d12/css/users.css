@@ -1,0 +1,16 @@
+main > div {
+    justify-content: center;
+    display: flex;
+}
+
+table {
+    width: 80%!important;
+}
+
+/* tbody tr:nth-child(odd) {
+    background-color: lightgrey;
+} */
+
+tr {
+    cursor: pointer;
+}

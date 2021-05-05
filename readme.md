@@ -24,3 +24,28 @@ Pour récuperer ce projet, il suffit de ....
     - Roblechon
 - Lardon
 - Lait
+1. premier point
+2. second point 
+
+### metter lien hypertexte
+[Google](https://.google.com)
+
+### style de base 
+
+**Mettre en gras**
+
+*mettre en étalique*
+
+__metter en gras__  
+
+on peut *faire* le **tout** au sein d'une même __*phrase*__ !
+
+### Côter du code
+```html
+<tr>
+    <th scope="col">#</th>
+    <th scope="col">Pseudo</th>
+    <th scope="col">Age</th>
+    <th scope="col">Couleur</th>
+</tr>
+```
